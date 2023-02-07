@@ -13,6 +13,7 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/rodrigoserrasqueiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://rodrigoserrasqueiro.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
 </div>
   
 
